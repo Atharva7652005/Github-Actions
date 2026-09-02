@@ -5,7 +5,7 @@ const PORT = process.env.PORT ?? 3000
 
 app.get('/', (req, res) => {
     return res.json({
-        msg: "Hello from the AWS server its Running, Let test it Now"
+        msg: "Hello from the AWS server its Running, Let test it Now, galti sudhari to hai"
     })
 })
 
